@@ -12,7 +12,7 @@
 ## 운영진 소개
 | 담당 |이름|소속| 연락처 |
 |---|---|---|---|
-|교육 책임|정재훈 교수님|수학과|ung153@postech.ac.kr|
+|교육 책임|정재훈 교수님|수학과|jung153@postech.ac.kr|
 |행정 및 운영|곽주영 선생님|수학과|juyoungkwak0@postech.ac.kr|
 |강의 및 커리큘럼 제작|김병규|컴퓨터공학과|qudrb6989@postech.ac.kr|
 |강의 및 커리큘럼 제작|김우주|컴퓨터공학과|kimuj0103@postech.ac.kr|
