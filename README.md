@@ -1,6 +1,5 @@
 # 4회 포스텍청소년수리인공지능아카데미
-[<img src="https://github.com/MINDS-edu/The-4th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Public/blob/main/warehouse/1_%ED%8F%AC%ED%95%AD%EC%8B%9CCI_%EA%B8%B0%EB%B3%B8%ED%98%95.jpg" style="height:auto; max-width:100%;">](https://www.pohang.go.kr/main.do)
-[<img src="https://wsrv.nl/?url=https://minds.postech.ac.kr/_res/postech/minds2/img/cropped-logo4-wide-1.png" style="height:auto; max-width:100%;">](https://minds.postech.ac.kr/minds2/index.do)
+
 
 ## 강의 개요
 **포항시** 가 주최하고 **포항공과대학교 수리데이터과학 연구소(POSTECH MINDS)** 가 위탁 운영하는 고등학생 대상 인공지능 교육 프로그램입니다. 인공지능의 기본 원리부터 실습 기반의 데이터 분석 및 모델 구축 경험을 제공하여, 지역 인재들이 미래 기술 역량을 갖출 수 있도록 돕습니다.  
@@ -40,4 +39,6 @@
 | [Day4] 2025.11.08|1차시|박해룡| [CNN이론](https://postechackr-my.sharepoint.com/:p:/g/personal/phrphr_postech_ac_kr/EVl3HU08tNhJuEmqljNy6wkBiDoQQAWmMnhfrFHTzJkb-A?rtime=pCEsTuyk3Ug), [CNN실습](https://github.com/Potdooshami/The-3rd-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy/blob/main/%EC%B2%AD%EC%86%8C%EB%85%84_%EC%88%98%EB%A6%AC_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8_3%EA%B8%B0_day4.ipynb)|
 | |2차시|김병규 |ChatGPT 활용|
 
-[![](https://minds.postech.ac.kr/_res/postech/minds2/img/cropped-logo4-wide-1.png)](https://minds.postech.ac.kr/minds2/index.do)
+
+[<img src="https://github.com/MINDS-edu/The-4th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Public/blob/main/warehouse/1_%ED%8F%AC%ED%95%AD%EC%8B%9CCI_%EA%B8%B0%EB%B3%B8%ED%98%95.jpg" style="height:auto; max-width:100%;">](https://www.pohang.go.kr/main.do)
+[<img src="https://wsrv.nl/?url=https://minds.postech.ac.kr/_res/postech/minds2/img/cropped-logo4-wide-1.png" style="height:auto; max-width:100%;">](https://minds.postech.ac.kr/minds2/index.do)
