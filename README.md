@@ -37,7 +37,7 @@
 | [Day3] 2025.11.01 |1차시|임재형|[MLP 이론](https://postechackr-my.sharepoint.com/:p:/g/personal/phrphr_postech_ac_kr/Ea3o7orO2ZhOuVS6QmAgugYByP2PCV8xHisEDsuBc0Wb-A?e=By9iVv)| 
 |  |2차시|임재형|[MLP 실습](https://github.com/Potdooshami/Potdooshami.github.io/blob/main/4%EA%B8%B0_3%EC%A3%BC%EC%B0%A8_MLP%EC%8B%A4%EC%8A%B5_251101.ipynb)| 
 | [Day4] 2025.11.08|1차시|박해룡| [CNN이론](https://postechackr-my.sharepoint.com/:p:/g/personal/phrphr_postech_ac_kr/EVl3HU08tNhJuEmqljNy6wkBiDoQQAWmMnhfrFHTzJkb-A?rtime=pCEsTuyk3Ug), [CNN실습](https://github.com/Potdooshami/The-3rd-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy/blob/main/%EC%B2%AD%EC%86%8C%EB%85%84_%EC%88%98%EB%A6%AC_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8_3%EA%B8%B0_day4.ipynb)|
-| |2차시|김병규 |LLM 활용|
+| |2차시|김병규 |LLM 이론, LLM 활용|
 
 
 [<img src="https://github.com/MINDS-edu/The-4th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Public/blob/main/warehouse/1_%ED%8F%AC%ED%95%AD%EC%8B%9CCI_%EA%B8%B0%EB%B3%B8%ED%98%95.jpg" style="height:auto; max-width:100%;">](https://www.pohang.go.kr/main.do)
