@@ -31,7 +31,7 @@
 | 날짜 |차시|강사| 강의자료 |
 |---|---|---|---|
 | [Day1]  2025.10.18 |1차시|김우주|[인공지능과 함수](https://postechackr-my.sharepoint.com/:p:/g/personal/phrphr_postech_ac_kr/ESsRi0Bes_xJo_0AxiK5BdsBgLe65RypO8sn-uWHJ6CgJA?e=VQlMlH) 
-| |2차시|박해룡|[파이썬 퀴즈](https://gemini.google.com/share/67d07d2fd074), [파이썬 실습](https://github.com/Potdooshami/The-4th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Public/blob/main/PYMAIA4_day1_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%8B%A4%EC%8A%B5.ipynb), [선형회귀 & 로지스틱회귀](https://github.com/Potdooshami/The-4th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Public/blob/main/PYMAIA4_day1_%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80%2C%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80.ipynb)|
+| |2차시|박해룡|[파이썬 실습](https://github.com/Potdooshami/The-4th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Public/blob/main/PYMAIA4_day1_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%8B%A4%EC%8A%B5.ipynb), [선형회귀 & 로지스틱회귀](https://github.com/Potdooshami/The-4th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Public/blob/main/PYMAIA4_day1_%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80%2C%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80.ipynb)|
 | [Day2] 2025.10.25  |1차시|김우주|[SVM 이론](https://postechackr-my.sharepoint.com/:p:/g/personal/phrphr_postech_ac_kr/ERjZXav0M4VNh9KffUmiyb0Bvb6iAiDuSrT8y3uiJeIU5w?e=3DfvEN)|
 |   |2차시|박해룡|[SVM 실습](https://github.com/Potdooshami/1T-TaS2-point-defect-analysis/blob/master/PYMAIA4_day2.ipynb) |
 | [Day3] 2025.11.01 |1차시|임재형|[MLP 이론](https://postechackr-my.sharepoint.com/:p:/g/personal/phrphr_postech_ac_kr/Ea3o7orO2ZhOuVS6QmAgugYByP2PCV8xHisEDsuBc0Wb-A?e=By9iVv)| 
